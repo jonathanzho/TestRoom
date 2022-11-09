@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.activities;
+package com.example.jonathan.activities;
 
 
 import android.content.Intent;
@@ -10,11 +10,11 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.View;
 
-import com.ashish.roomdemo.R;
-import com.ashish.roomdemo.adaptors.PersonAdaptor;
-import com.ashish.roomdemo.database.AppDatabase;
-import com.ashish.roomdemo.database.AppExecutors;
-import com.ashish.roomdemo.model.Person;
+import com.example.jonathan.R;
+import com.example.jonathan.adaptors.PersonAdaptor;
+import com.example.jonathan.database.AppDatabase;
+import com.example.jonathan.database.AppExecutors;
+import com.example.jonathan.model.Person;
 
 import java.util.List;
 

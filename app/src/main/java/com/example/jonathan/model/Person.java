@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.model;
+package com.example.jonathan.model;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.Ignore;

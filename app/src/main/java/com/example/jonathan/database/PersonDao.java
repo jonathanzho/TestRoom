@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.database;
+package com.example.jonathan.database;
 
 
 import android.arch.persistence.room.Dao;
@@ -7,7 +7,7 @@ import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
 import android.arch.persistence.room.Update;
 
-import com.ashish.roomdemo.model.Person;
+import com.example.jonathan.model.Person;
 
 import java.util.List;
 

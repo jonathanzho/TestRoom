@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.database;
+package com.example.jonathan.database;
 
 
 import android.arch.persistence.room.Database;
@@ -7,7 +7,7 @@ import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 import android.util.Log;
 
-import com.ashish.roomdemo.model.Person;
+import com.example.jonathan.model.Person;
 
 @Database(entities = {Person.class}, version = 1, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {

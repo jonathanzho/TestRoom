@@ -1,4 +1,4 @@
-package com.ashish.roomdemo;
+package com.example.jonathan;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

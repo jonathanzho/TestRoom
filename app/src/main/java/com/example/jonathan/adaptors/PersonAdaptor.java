@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.adaptors;
+package com.example.jonathan.adaptors;
 
 
 import android.content.Context;
@@ -11,12 +11,11 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.ashish.roomdemo.R;
-import com.ashish.roomdemo.activities.EditActivity;
-import com.ashish.roomdemo.constants.Constants;
-import com.ashish.roomdemo.database.AppDatabase;
-import com.ashish.roomdemo.database.AppExecutors;
-import com.ashish.roomdemo.model.Person;
+import com.example.jonathan.R;
+import com.example.jonathan.activities.EditActivity;
+import com.example.jonathan.constants.Constants;
+import com.example.jonathan.database.AppDatabase;
+import com.example.jonathan.model.Person;
 
 import java.util.List;
 

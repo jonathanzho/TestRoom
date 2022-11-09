@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.database;
+package com.example.jonathan.database;
 
 /*
  * Copyright (C) 2017 The Android Open Source Project

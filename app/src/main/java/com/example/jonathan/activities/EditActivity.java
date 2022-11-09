@@ -1,4 +1,4 @@
-package com.ashish.roomdemo.activities;
+package com.example.jonathan.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,11 +9,11 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.ashish.roomdemo.R;
-import com.ashish.roomdemo.constants.Constants;
-import com.ashish.roomdemo.database.AppDatabase;
-import com.ashish.roomdemo.database.AppExecutors;
-import com.ashish.roomdemo.model.Person;
+import com.example.jonathan.R;
+import com.example.jonathan.constants.Constants;
+import com.example.jonathan.database.AppDatabase;
+import com.example.jonathan.database.AppExecutors;
+import com.example.jonathan.model.Person;
 
 public class EditActivity extends AppCompatActivity {
     EditText name, email, pincode, city, phoneNumber;

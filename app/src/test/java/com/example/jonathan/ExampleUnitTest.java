@@ -1,4 +1,4 @@
-package com.ashish.roomdemo;
+package com.example.jonathan;
 
 import org.junit.Test;
 
